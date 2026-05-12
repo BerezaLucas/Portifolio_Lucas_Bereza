@@ -38,11 +38,9 @@
 
 
 ```
-![Uploading tela-sala-de-reuniao.jpeg…]()![Uploading tela-sala-de-reuniao.jpeg…]()
 
 
 
-<img width="739" height="1600" alt="tela-sala-de-reuniao" src="https://github.com/user-attachments/assets/908a71bf-72a8-4c1f-b614-b291eb7f79f9" />
 
 ```
 
@@ -86,7 +84,7 @@ Abra o [link de pré-visualização](https://manus.im/app-preview/nfBNNibYFoNFsX
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Função |
-|---|---|
+
 | Jitsi Meet | Engine de videoconferência |
 | JavaScript | Integração com a Jitsi API |
 | HTML/CSS | Interface do usuário |
