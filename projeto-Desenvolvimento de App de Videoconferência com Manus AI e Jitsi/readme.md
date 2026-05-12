@@ -1,0 +1,95 @@
+[README.md](https://github.com/user-attachments/files/27618023/README.md)
+# 📹 JitsiStudy App
+
+> Videoconferências simples, rápidas e sem complicação — direto do seu navegador.
+
+---
+
+## 🔗 Link de Pré-visualização
+
+[▶ Acessar o App]((https://manus.im/app-preview/nfBNNibYFoNFsXbYtoGwmU?sessionId=C3BSWGvkn89pw6dyRAY8tT))
+
+---
+
+## 📱 QR Code
+
+> _Insira abaixo a imagem do QR Code gerada pela Manus AI:_
+
+```
+<img width="216" height="217" alt="image" src="https://github.com/user-attachments/assets/4fd87cae-bd2d-4598-b0a3-dcf5242bde33" />
+
+```
+
+## 💡 Proposta de Valor
+
+**Por que o Party up é único?**
+
+- ✅ **Zero instalação** — funciona 100% no navegador, sem cadastro obrigatório
+- ✅ **Open Source** — baseado no Jitsi Meet, tecnologia confiável e auditável
+- ✅ **Salas instantâneas** — crie ou entre em uma reunião com um único clique
+- ✅ **Privacidade primeiro** — sem rastreamento de dados ou dependência de Big Tech
+- ✅ **Leve e acessível** — ideal para estudos, grupos de trabalho e reuniões rápidas
+
+---
+
+## 🖼️ Capturas de Tela
+
+> _Adicione screenshots ou um GIF animado demonstrando o app em funcionamento:_
+
+```
+<img width="739" height="1600" alt="tela-inicial" src="https://github.com/user-attachments/assets/9fab1a8d-a8c0-402a-b69d-da6548e176ba" />
+
+<img width="739" height="1600" alt="tela-sala-de-reuniao" src="https://github.com/user-attachments/assets/908a71bf-72a8-4c1f-b614-b291eb7f79f9" />
+
+```
+
+## 🚀 Instruções de Uso
+
+### 1. Acessar o App
+Abra o [link de pré-visualização](https://manus.im/app-preview/nfBNNibYFoNFsXbYtoGwmU?sessionId=C3BSWGvkn89pw6dyRAY8tT) ou escaneie o QR Code abaixo.
+<img width="216" height="217" alt="image" src="https://github.com/user-attachments/assets/4fd87cae-bd2d-4598-b0a3-dcf5242bde33" />
+
+
+### 2. Criar uma Sala
+- Clique em **"Nova Reunião"**
+- Um link único será gerado automaticamente
+
+### 3. Compartilhar o Link
+- Copie o link da sala e envie para os participantes
+- Eles entram diretamente pelo navegador, sem instalar nada
+
+### 4. Iniciar a Reunião
+- Permita acesso à câmera e microfone quando solicitado
+- Pronto! A reunião começa imediatamente
+
+---
+
+## 🔍 Preview
+
+> Escaneie o QR Code para testar o app no seu celular:
+
+```
+┌─────────────────────────┐
+│                         │
+│   <img width="217" height="219" alt="image" src="https://github.com/user-attachments/assets/cd2e30af-cada-45e2-b090-d01352f807e5" />
+  │
+│                         │
+└─────────────────────────┘
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|---|---|
+| Jitsi Meet | Engine de videoconferência |
+| JavaScript | Integração com a Jitsi API |
+| HTML/CSS | Interface do usuário |
+| Manus AI | Deploy e hospedagem |
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso educacional, desenvolvido como estudo de integração com a Jitsi Meet API.
+
