@@ -47,7 +47,8 @@
 
 ### 1. Acessar o App
 Abra o [link de pré-visualização](https://manus.im/app-preview/nfBNNibYFoNFsXbYtoGwmU?sessionId=C3BSWGvkn89pw6dyRAY8tT) ou escaneie o QR Code abaixo.
-<img width="216" height="217" alt="image" src="https://github.com/user-attachments/assets/4fd87cae-bd2d-4598-b0a3-dcf5242bde33" />
+<img width="216" height="217" alt="Qr-code-app" src="https://github.com/user-attachments/assets/35cc3fd1-9d50-4648-9fe5-3e8d4044a84a" />
+
 
 
 ### 2. Criar uma Sala
@@ -71,7 +72,8 @@ Abra o [link de pré-visualização](https://manus.im/app-preview/nfBNNibYFoNFsX
 ```
 ┌─────────────────────────┐
 │                         │
-│   <img width="217" height="219" alt="image" src="https://github.com/user-attachments/assets/cd2e30af-cada-45e2-b090-d01352f807e5" />
+│   <img width="216" height="217" alt="Qr-code-app" src="https://github.com/user-attachments/assets/8ce832ad-cedc-4ace-be2e-4d7d934e6435" />
+
   │
 │                         │
 └─────────────────────────┘
