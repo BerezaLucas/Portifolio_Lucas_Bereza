@@ -45,6 +45,7 @@ No **Google AI Studio**, defino as *System Instructions* do modelo (Gemini), esp
 
 Questão 1:
 Ao realizar a engenharia reversa sem visualizar o código-fonte, você transfere o esforço da escrita sintática para a descrição lógica e funcional. Diante da tendência de mercado de "Desenvolvimento Assistido por IA", como essa mudança impacta a formação do engenheiro de software júnior? Prescreva pelo menos duas competências técnicas ou comportamentais que se tornam indispensáveis para que o profissional não se torne obsoleto diante de ferramentas como o Gemini.
+
 R: A transição do esforço da sintaxe para a lógica funcional redefine o papel do desenvolvedor júnior: ele deixa de focar no "como escrever" para dominar o "o que construir" e "por que funciona". Nesse cenário, o profissional deixa de ser um executor de linhas de código e passa a atuar como um auditor crítico de sistemas gerados por IA. Para não se tornar obsoleto as duas competencias indispensaveis são:
 Capacidade Analítica de Depuração e Leitura de Código (Code Review):
 Com a IA gerando grandes volumes de código instantaneamente, o júnior deve desenvolver uma habilidade aguçada de leitura crítica. Não basta que o código funcione; é preciso entender a fundo a lógica subjacente para identificar alucinações, falhas de segurança ou gargalos de performance que a IA possa ter introduzido. A competência técnica aqui é a capacidade de realizar engenharia reversa mental para validar a integridade da solução proposta.
@@ -53,6 +54,7 @@ Saber "manusear a ferramenta" traduz-se na habilidade de traduzir requisitos de 
 
 Questão 2:
 A facilidade em replicar interfaces e funcionalidades complexas (como os apps de OSINT ou Design propostos) levanta dilemas éticos sobre a originalidade e o direito autoral do software. Avalie criticamente: em que ponto a engenharia reversa assistida por IA deixa de ser uma ferramenta de aprendizado ou prototipagem e passa a ser uma prática de plágio digital? Proponha uma solução criativa ou uma diretriz ética que desenvolvedores e empresas podem adotar para proteger a inovação original sem frear o avanço das ferramentas generativas.
+
 R: Quando o foco sai da digitação do código e vai para a lógica, o papel do programador júnior muda: ele deixa de ser um "operário da escrita" para se tornar um supervisor da tecnologia. O risco é o profissional virar um dependente da IA, apenas copiando o que ela sugere sem entender o "porquê" das coisas.
 o desenvolvedor precisa focar nestas duas competências:
 Leitura Crítica e Diagnóstico (O "Olhar de Perito") e Tradução de Problemas (Saber perguntar)
