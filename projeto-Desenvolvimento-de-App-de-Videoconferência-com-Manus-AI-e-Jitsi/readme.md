@@ -62,12 +62,10 @@ Abra o [link de pré-visualização](https://manus.im/app-preview/nfBNNibYFoNFsX
 > Escaneie o QR Code para testar o app no seu celular:
 
 
-┌─────────────────────────┐
-│                         │
+
 │   <img width="216" height="217" alt="Qr-code-app" src="https://github.com/user-attachments/assets/8ce832ad-cedc-4ace-be2e-4d7d934e6435" />
 
-│                         │
-└─────────────────────────┘
+
 
 
 ## 🛠️ Tecnologias Utilizadas
